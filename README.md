@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waqas ishaque</h1>
 <h3 align="center">A passionate web designer and developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Lynx js** <img src="https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg" alt="Lynx" width="40" height="40"/>
+- 🌱 I’m currently learning **Lynx js** <img src="https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg" alt="Lynx" width="30" height="30"/>
 
 - 👨‍💻 All of my projects are available at [https://waqasishaque.netlify.app/](https://waqasishaque.netlify.app/)
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waqas ishaque</h1>
 <h3 align="center">A passionate web designer and developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Next 14**
+- 🌱 I’m currently learning **Lynx js**
 
 - 👨‍💻 All of my projects are available at [https://waqasishaque.netlify.app/](https://waqasishaque.netlify.app/)
 

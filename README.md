@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Lynx js** <a href="https://lynxjs.org/" > <img src="https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg" alt="Lynx" width="30" height="30"/></a>
 
-- 👨‍💻 All of my projects are available at [https://waqasishaque.netlify.app/](https://waqasishaque.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://waqasishaque.netlify.app/)
 
 - 📝 I regularly write articles on my thread [https://www.threads.net/@your_waqas](https://www.threads.net/@your_waqas)
 
-- 💬 Ask me about **React, Vue, gsap, three.js, webGL and GLSL**
+- 💬 Ask me about **Next, React, React native, gsap, three.js, webGL and GLSL**
 
 - 📫 How to reach me **w.ishaque001@gmail.com**
 
-- 📄 Know about my experiences [https://waqasishaque.vercel.app/](https://waqasishaque.vercel.app/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/waqas-ishaque/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

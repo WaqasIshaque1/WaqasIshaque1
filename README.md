@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Lynx js** <a href="https://lynxjs.org/" > <img src="https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg" alt="Lynx" width="30" height="30"/></a>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://waqasishaque.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://waqasishaque.me/)
 
 - 📝 I regularly write articles on my thread [https://www.threads.net/@your_waqas](https://www.threads.net/@your_waqas)
 
